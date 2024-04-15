@@ -1,0 +1,81 @@
+
+.navvbarr{
+    background-color:  #F0ECF9;  
+}
+.purplee{
+    color:  #6F42C1;
+}
+.FONT1{
+  text-transform: capitalize;
+}
+
+.fonnt{
+    font-size: 50px;
+}
+.purpleeed{
+    background: #6F42C1;
+}
+.listing{
+    list-style-image: url("img/9.png");
+}
+.Stay{
+    background: #F8F5FC;
+}
+
+.imgee{
+    background: #E2D9F3;
+}
+
+.imgee img{
+ width: 30%;
+ height: 50%;
+}
+
+.listinnng2{
+    list-style-image:url("img/Vector.png") ;
+}
+.listing5{
+    list-style-image:url("img/close_24px.png") ;
+}
+.eight-div{
+    background: #F8F5FC;
+}
+
+.purplr-2 li a{
+ color: #6F42C1;
+}
+
+
+@media screen and (max-width:1450px) {
+    .postiooon{
+        position: relative;
+    }
+    .postiooon-1{
+        position: absolute;
+        top:-35px;
+        margin-right: 10px;
+    }
+    .postiooon-2{
+        position: absolute;
+        bottom: 120px;
+        margin-right: 10px;  
+    } 
+}
+
+@media screen and (max-width:988px) {
+    .postiooon{
+        position: static;
+    }
+    .postiooon-1{
+        position: static;
+        /* top:-35px; */
+        margin-right: 0px;
+    }
+    .postiooon-2{
+        position: static;
+        /* bottom: 120px; */
+        margin-right: 0px;  
+    } 
+}
+
+
