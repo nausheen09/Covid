@@ -2,6 +2,10 @@
 .navvbarr{
     background-color:  #F0ECF9;  
 }
+.navbaa-round{
+    border-radius: 0 0 270px 0px;
+}
+
 .purplee{
     color:  #6F42C1;
 }
